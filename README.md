@@ -1,0 +1,3 @@
+- Just trying to learn programming and stuff.
+- Future web developer.
+- What did you expect to see?
