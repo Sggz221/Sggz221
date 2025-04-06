@@ -23,5 +23,4 @@ Soy un futuro desarrollador de aplicaciones web en formación. Actualmente, me e
 
 ## 📞 Contacto
 Puedes encontrarme en:
-- [GitHub](https://github.com/sggz221) 
 - Correo: sggz221@gmail.com
