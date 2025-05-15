@@ -8,7 +8,6 @@ Soy un futuro desarrollador de aplicaciones web en formación. Actualmente, me e
 - **Kotlin**
 - **HTML**
 - **CSS**
-- **Python**
 
 ## 💿 Bases de datos:
 - **MariaDB**
