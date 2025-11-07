@@ -1,10 +1,13 @@
-# ¡Hola, soy Samuel Gómez! 👋
+# ¡Hola, soy Samuel Gómez! <img src="https://camo.githubusercontent.com/0e918073302bb388d05bae6b660b5bef8cb3b9b8d4eafac7c251f175f9f8fb3d/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434622f3531322e676966" alt="Greetings" style="width: 30px">
 
 ### 🚀 Futuro Desarrollador Junior
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador en formación, apasionado por el mundo del desarrollo de software, especialmente enfocado en el **backend** y la **construcción de APIs**. Estoy en un viaje de aprendizaje constante para construir aplicaciones robustas, escalables y eficientes.
 
 Actualmente, estoy profundizando mis conocimientos en el ecosistema de Java y construyendo proyectos prácticos para solidificar mis habilidades.
+
+
+🔗 Conecta Conmigo <p align="left"> <a href="https://www.linkedin.com/in/samuel-g%C3%B3mez-253974296/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a></p>
 
 ---
 
@@ -50,10 +53,10 @@ Aquí están las tecnologías, lenguajes y herramientas con las que estoy trabaj
 
 ## 🌱 Mis Objetivos y Próximos Pasos
 
-* **Enfoque Actual:**
+* **Enfoque Actual:** 🎯
     * Construir y desplegar **APIs RESTful** seguras y eficientes.
     * Perfeccionar mis habilidades en **Spring Boot** y el manejo de bases de datos.
-* **Futuro Cercano:**
+* **Futuro Cercano:** 📚
     * Aprender **C#** y el ecosistema **.NET**.
     * Explorar más sobre buenas prácticas, patrones de diseño y arquitectura de software.
 
