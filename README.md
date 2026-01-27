@@ -1,4 +1,4 @@
-# ¡Hola, soy Samuel Gómez! <img src="https://camo.githubusercontent.com/0e918073302bb388d05bae6b660b5bef8cb3b9b8d4eafac7c251f175f9f8fb3d/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434622f3531322e676966" alt="Greetings" style="width: 30px">
+# ¡Hola, soy Samuel Gómez! <img src="https://camo.githubusercontent.com/3782f5ce9e31c105d06e1b005afd1d245745b2c70aeebc8012441c55ef4cd177/68747470733a2f2f69616d2d7765696a69652e6769746875622e696f2f776176652f68616e642d656d6f6a692e737667" alt="Greetings" style="width: 30px">
 
 ### 🚀 Futuro Desarrollador Junior
 
