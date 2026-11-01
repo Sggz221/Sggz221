@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Samuel Gómez</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" alt="👋"/>, I'm Samuel Gómez</h1>
 
 **Junior Software Developer** focused on backend development and API design.
 
